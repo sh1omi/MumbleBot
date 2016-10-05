@@ -1,0 +1,19 @@
+{
+  "name": "mumblebot",
+  "productName": "mumblebot",
+  "version": "1.0.0",
+  "description": "Simple mumble bot",
+  "main": "index.js",
+  "keywords": [
+    "mumble",
+    "bot",
+    "sh1omi"
+  ],
+  "author": "sh1omi",
+  "license": "MIT",
+  "dependencies": {
+    "mumble":"*",
+    "dateformat":"*"
+  }
+}
+
